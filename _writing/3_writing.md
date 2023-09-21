@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Writing piece 3"
-description: Description of writing piece 3 
-outlet: Wikipedia
-date: "2021-09-19 19:29:00"
-redirect: https://en.wikipedia.org/wiki/Writing
-img: 
-importance: 3
-category: features
+title: "A life of the neurodivergent mind"
+description: A personal essay about being late-diagnosed neurodivergent in graduate school
+outlet: SISTER STEM
+date: "2022"
+redirect:https://sisterstem.org/2022/04/14/a-life-of-the-neurodivergent-mind))https://sisterstem.org/2022/04/14/a-life-of-the-neurodivergent-mind
+img: assets/SISTERSTEM.jpg
+importance: 3 
+category: longform
 ---
