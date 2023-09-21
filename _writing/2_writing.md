@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Writing piece 2"
-description: Description of writing piece 2
-outlet: Wikipedia
-date: "2021-09-18 19:29:00"
-redirect: https://en.wikipedia.org/wiki/Writing
-img: 
+title: "How do you solve a problem like the glia?"
+description: A scientific history of glial cells and the use of metaphor in biology
+outlet: Arcadia Science
+date: "2022"
+redirect: https://mailchi.mp/arcadia.science/how-do-you-solve-a-problem-like-the-glia
+img: /assets/glia.jpg
 importance: 2
-category: features
+category: longform
 ---
