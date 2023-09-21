@@ -2,7 +2,7 @@
 layout: page
 title: writing
 permalink: /_writing/
-description: A collection of my writings.
+description: A portfolio of my written work
 nav: true
 only_highlights: false
 display_categories: [longform, shortform]
