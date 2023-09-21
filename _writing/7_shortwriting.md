@@ -7,5 +7,5 @@ date: "2022"
 redirect: https://oceanbites.org/snot-your-typical-carbon-capture/
 img: 
 importance: 1
-category: short
+category: shortform
 ---
