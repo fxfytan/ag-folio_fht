@@ -7,6 +7,6 @@ date: "2023"
 redirect: [https://electricliterature.com/im-a-transgender-scientist-and-i-see-myself-in-frankenstein/]
 img: assets/bothand_img.jpg
 importance: 1
-category: features
+category: longform
 highlighted: true
 ---
