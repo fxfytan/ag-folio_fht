@@ -5,7 +5,7 @@ permalink: /_writing/
 description: A collection of my writings.
 nav: true
 only_highlights: false
-display_categories: [features, short]
+display_categories: [longform, shortform]
 nav_order: 7
 ---
 
