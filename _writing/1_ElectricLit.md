@@ -1,0 +1,12 @@
+---
+layout: page
+title: "I’m a Transgender Scientist and I See Myself in “Frankenstein”"
+description: An essay about scientific objectivity and who gets to claim it. Selected for Electric Lit's Both/And essay series.
+outlet: Electric Literature
+date: "2023"
+redirect: [https://electricliterature.com/im-a-transgender-scientist-and-i-see-myself-in-frankenstein/]
+img: assets/bothand_img.jpg
+importance: 1
+category: features
+highlighted: true
+---
