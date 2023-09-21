@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Writing piece 4"
-description: Description of writing piece 4
-outlet: Wikipedia
-date: "2021-09-17 19:29:00"
-redirect: https://en.wikipedia.org/wiki/Writing
-img: 
-importance: 1
-category: short
+title: "Actin, algae, and answers in search of a question: a perspective on emerging systems in biology"
+description: Finalist entry for Arcadia Science's scicomm hackathon 
+outlet: Arcadia Science
+date: "2022"
+redirect: https://www.arcadia.science/blog/arcadias-first-hackathon-science-communication
+img: /assets/601px-Chlamydomonas_TEM_04.jpg
+importance: 4
+category: longform
 ---
