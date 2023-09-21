@@ -1,11 +1,10 @@
 ---
 layout: page
-title: "Writing piece 4"
-description: Description of writing piece 4
-outlet: Wikipedia
-date: "2021-09-17 19:29:00"
-redirect: https://en.wikipedia.org/wiki/Writing
-img: 
-importance: 1
-category: short
+title: "Femininity, Foreignness, and Flowers: How culture shapes scientific discovery"
+description: How the cultural mores of Victorian England shaped the natural history of the bee orchid. NAS Schmidt Excellence in Science Communication winning submission.
+outlet: Caltech Letters
+date: "2021"
+redirect: https://caltechletters.org/viewpoints/orchids-science-and-culture
+img: assets/022-01-11-orchid-cover-image.jpg
+category: longform
 ---
