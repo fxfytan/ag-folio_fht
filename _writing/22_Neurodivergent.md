@@ -6,6 +6,6 @@ outlet: SISTER STEM
 date: "2022"
 redirect:https://sisterstem.org/2022/04/14/a-life-of-the-neurodivergent-mind))https://sisterstem.org/2022/04/14/a-life-of-the-neurodivergent-mind
 img: assets/SISTERSTEM.jpg
-importance: 3 
+importance: 4 
 category: longform
 ---
