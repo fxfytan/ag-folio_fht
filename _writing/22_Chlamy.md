@@ -6,6 +6,6 @@ outlet: Arcadia Science
 date: "2022"
 redirect: https://www.arcadia.science/blog/arcadias-first-hackathon-science-communication
 img: /assets/601px-Chlamydomonas_TEM_04.jpg
-importance: 4
+importance: 5
 category: longform
 ---
