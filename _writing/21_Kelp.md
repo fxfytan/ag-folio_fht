@@ -6,6 +6,6 @@ outlet: The Xylom
 date: "2021"
 redirect: https://www.thexylom.com/post/no-more-free-kelp-in-northern-california
 img: /assets/oYz2UqFK.jpg
-importance: 6
+importance: 7
 category: longform
 ---
